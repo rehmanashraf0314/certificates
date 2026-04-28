@@ -11,6 +11,6 @@ https://www.credly.com/badges/8e566c7f-673b-4c69-a6d0-ab5e64f0b104/public_url
 
 ### DEVCON Participation Certificate at MCS
 Secure the fourth position overall
-![Devcon Certificate](AwsCloud_certificate.pdf)
+![Devcon Certificate](Devcon_participation.jpeg)
 
 
