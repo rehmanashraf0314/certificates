@@ -13,4 +13,5 @@ https://www.credly.com/badges/8e566c7f-673b-4c69-a6d0-ab5e64f0b104/public_url
 Secure the fourth position overall
 ![Devcon Certificate](Devcon_participation.jpeg)
 
-
+###Internship AI/ML Engineer (continue)
+![Offer_letter](inter_offer.pdf) 
